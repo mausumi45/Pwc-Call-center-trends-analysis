@@ -8,3 +8,5 @@ Here is thetasks to create a dashboard in PowerBI that reflects all relevant Key
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+# Data Collection :
+The dataset is provided by PWC Switzerland for second task of virtual internship.
