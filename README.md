@@ -3,3 +3,8 @@
 # Tasks :
 The call center manager at phoneNOW looking for transperency and insights from data to analyse call center trends using visualization tool.
 Here is thetasks to create a dashboard in PowerBI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
+- Overall customer satisfaction
+- Overall calls answered/abandoned
+- Calls by time
+- Average speed of answer
+- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
